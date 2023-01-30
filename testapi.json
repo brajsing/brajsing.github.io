@@ -1,9 +1,9 @@
 {
-    "openapi": "3.0.3",
+    "openapi": "test",
     "info": {
         "title": "testapi",
         "description": "",
-        "version": "xyzzy"
+        "version": "1.0.0"
     },
     "tags": [],
     "paths": {

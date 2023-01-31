@@ -1,0 +1,302 @@
+openapi: test
+info:
+  title: testapi
+  description: ''
+  version: 1.0.0
+tags: []
+paths:
+  /matches:
+    get:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+    put:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    post:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    patch:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    delete:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+  /teams:
+    put:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+  /dfsdfsdf:
+    put:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    post:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    patch:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    get:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+    delete:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+  /tetstts:
+    get:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+    put:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    post:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    patch:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+      requestBody:
+        description: ''
+        content: {}
+    delete:
+      summary: ''
+      description: ''
+      parameters: []
+      responses:
+        '200':
+          description: success response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  msg:
+                    type: string
+              example:
+                - msg: success
+components:
+  schemas: {}
+servers:
+  - url: 'http://tibco.com/tes455'
+    description: ''

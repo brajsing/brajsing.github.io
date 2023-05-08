@@ -1,0 +1,13 @@
+openapi: "3.0.3"
+info:
+  title: "testapi"
+  description: ""
+  version: "1.0.0"
+tags: []
+paths: {}
+components:
+  schemas: {}
+  securitySchemes:
+    aweadsadasd:
+      type: "http"
+      scheme: "basic"

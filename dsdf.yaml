@@ -1,6 +1,6 @@
 openapi: "3.0.3"
 info:
-  title: "1"
+  title: ""
   description: ""
   version: "123"
 tags: []

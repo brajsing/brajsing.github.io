@@ -1,0 +1,13 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "1api7",
+    "description": "This is description changed 101",
+    "version": "123a"
+  },
+  "tags": [],
+  "paths": {},
+  "components": {
+    "schemas": {}
+  }
+}
